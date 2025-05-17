@@ -27,7 +27,7 @@
 #define RTC_MAX_MINUTES             99U
 
 // ADC and Voltage calculation constants
-#define ADC_MAX_RAW_VALUE           65535U      // Max value from read_u16()
+#define ADC_MAX_RAW_VALUE           4096U       // Max value from 12-bit ADC
 #define ADC_REFERENCE_VOLTAGE       3.3f        // MCU ADC reference voltage
 #define VOLTAGE_DISPLAY_MULTIPLIER  1000.0f     
 
