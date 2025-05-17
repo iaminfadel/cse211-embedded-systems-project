@@ -1,4 +1,8 @@
 # CSE211S Final Project - Real-Time Clock and Voltage Display
+## Contributors
+@iaminfadel
+@Mohamed-alaa32
+
 
 ## Overview
 This project is the final assignment for CSE211S: Introduction to Embedded Systems - Spring 2025. The implementation uses a NUCLEO-F401RE board with an Arduino Multifunction Shield to create a system that can:
